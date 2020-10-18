@@ -1,6 +1,6 @@
-# QRS19(Tutorial): Installation Instructions
+# TAROT2020: Installation Instructions
 
-Below are the steps you need to do to set you system up for the QRS19 tutorial on [T6: Coverage-Based Automated Testing and Debugging](https://qrs19.techconf.org/tutorials/t6). There are two options: you either run the Eclipse IDE or the maven.
+This tutorial is based on the QRS19 tutorial on [T6: Coverage-Based Automated Testing and Debugging](https://qrs19.techconf.org/tutorials/t6). There are two options: you either run the Eclipse IDE or the maven.
 
 ## Setup 
 
